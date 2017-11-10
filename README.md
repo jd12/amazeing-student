@@ -1,4 +1,8 @@
-# Post Fix Evaluator
+# aMAZEing Recursion 
+
+**README UNDER CONSTRUCTION**
+
+Project description can be found [here](https://docs.google.com/document/d/1F-8kjJUGciPfMf3vt44nqxKQQNTtatVYq09jTjdr4a0/edit?usp=sharing)
 
 
 ## Overview
