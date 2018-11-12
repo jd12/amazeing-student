@@ -5,7 +5,7 @@ package maze;
  * A {@link MazeBuilder} provides a set of methods for connecting {@link Room}s
  * in a way that is manageable for constructing a {@link Maze}.
  *
- * @author jcollard, jddevaughn
+ * @author jcollard, jddevaug
  *
  */
 public interface MazeBuilder {

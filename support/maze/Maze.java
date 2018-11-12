@@ -6,7 +6,7 @@ package maze;
  * it is possible to navigate between its {@link Room}s in such a way
  * that one arrives at a {@link Room} whose {@link Room#isExit()} returns
  * {@code true}.
- * @author jcollard, jddevaughn
+ * @author jcollard, jddevaug
  *
  */
 public class Maze {

@@ -5,7 +5,7 @@ import structure.ListInterface;
 /**
  * A {@link Room} in a {@link Maze}.
  *
- * @author jcollard, jddevaughn
+ * @author jcollard, jddevaug
  *
  */
 public interface Room {

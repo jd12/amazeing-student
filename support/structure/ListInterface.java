@@ -4,7 +4,7 @@ package structure;
  * A {@link ListInterface} is a container that supports insertion, removal, and
  * searching.
  *
- * @author jcollard, jddevaughn
+ * @author jcollard, jddevaug
  *
  * @param <T>
  */

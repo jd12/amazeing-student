@@ -6,12 +6,8 @@ package maze;
  * @author jcollard
  *
  */
+@SuppressWarnings("serial")
 public class UnsolvableMazeException extends RuntimeException {
-
-  /**
-   *
-   */
-  private static final long serialVersionUID = 1L;
 
   /**
    * default constructor.
